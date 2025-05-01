@@ -1,0 +1,1001 @@
+identificación,Apellidos,Nombres,Edad,Genero,Asginatura,Nota
+1,Bobbie,Berrie,40,Masculino,Front,3.77
+2,Willette,Rawlings,23,,Front,0.59
+3,Barbra,MacCambridge,30,Masculino,FullS,
+4,Kalie,McAdam,46,Femenino,Front,3.3
+5,Rufus,McKinnon,40,Femenino,FullS,1.13
+6,Carlynn,Packington,24,,Front,0.86
+7,Beth,Kach,36,Femenino,Back,3.04
+8,Nappy,Hrinchishin,55,Femenino,Back,3.19
+9,Seumas,Brockie,58,Femenino,Front,0.54
+10,Petrina,Mills,21,Femenino,Back,1.83
+11,Tymon,Reiglar,27,,Front,1.41
+12,Cleavland,Reef,54,No Binario,FullS,1.08
+13,Conroy,Fosberry,47,Femenino,FullS,0.66
+14,Mordecai,Stang-Gjertsen,34,Femenino,Back,3.16
+15,Belinda,Ledgeway,59,Femenino,Back,2.67
+16,Shandy,Leijs,30,No Binario,,3.84
+17,Brandi,Riddell,44,Masculino,Back,2.98
+18,Noah,Dumigan,50,Masculino,Front,3.36
+19,Josefa,Cron,36,Femenino,Front,0.77
+20,Xena,Postles,25,,FullS,3.56
+21,Duffy,Bartley,45,Femenino,Front,2.43
+22,Gavin,Quirke,24,Femenino,Back,0.98
+23,Fran,Tregunnah,50,Femenino,Front,1.28
+24,Leila,Haspineall,50,Masculino,FullS,3.86
+25,Skippie,Santello,28,No Binario,Front,0.06
+26,Nance,Janzen,60,Femenino,Front,1.53
+27,Pru,Pickersgill,56,Femenino,FullS,3.18
+28,Sheffie,Wahncke,22,Femenino,FullS,2.78
+29,Mariquilla,Paulton,17,,FullS,0.34
+30,Ray,MacRirie,17,No Binario,Back,2.93
+31,Reginald,Binyon,31,Masculino,Back,1.01
+32,Annice,Reditt,58,Femenino,Front,2.35
+33,Devin,Vero,26,Masculino,Front,0.68
+34,Thorsten,Gravenall,52,Femenino,FullS,1.96
+35,Henderson,MacRury,38,Femenino,Front,2.13
+36,Harley,Binnall,60,Femenino,Front,0.52
+37,Marcos,Truswell,29,Femenino,Front,0.0
+38,Audy,Tovey,20,Femenino,Back,2.44
+39,Frayda,Belli,16,Femenino,Front,0.63
+40,Kennan,Lamplugh,51,Masculino,Front,0.98
+41,Windy,Lewington,50,Femenino,Front,2.92
+42,Romonda,Rentoll,22,Femenino,Back,1.33
+43,Darcy,Fotherby,30,Femenino,Front,0.66
+44,Maurise,Hun,39,,Front,0.51
+45,Carola,Inworth,44,Masculino,Front,3.51
+46,Naomi,Sayre,,Masculino,Front,2.01
+47,Marysa,Aymer,19,Femenino,FullS,0.39
+48,Bunni,Kivlin,39,Masculino,Front,2.63
+49,Odell,Dowyer,21,Masculino,Front,0.71
+50,Wayland,Reddie,49,Femenino,Back,0.57
+51,Hube,Gilks,58,Femenino,Front,2.37
+52,Jessey,Kingcott,53,No Binario,Back,3.56
+53,Dorian,Rosenberger,53,Femenino,FullS,0.91
+54,Katha,Warlaw,25,Masculino,Back,2.57
+55,Gabriela,Moorhead,24,Masculino,Front,
+56,Bernita,Hadlee,58,Masculino,Front,
+57,Annabela,Filoniere,54,Masculino,Front,3.12
+58,Deni,Shergill,51,Femenino,Back,
+59,Trumann,Ledamun,48,,Front,2.5
+60,Suzette,Davidy,53,Femenino,FullS,0.04
+61,Charlot,Grishkov,,Femenino,Front,2.16
+62,Hillard,Hooke,49,Femenino,Front,3.31
+63,Antonino,Ajam,58,Femenino,Front,3.9
+64,Lia,Cranmer,27,Femenino,Back,1.18
+65,Gaston,Edmunds,17,Femenino,Back,
+66,Gabrielle,Dymock,25,Masculino,Front,2.52
+67,Kiley,Arnowicz,45,Femenino,,2.17
+68,Robinet,Eveque,20,Masculino,Front,0.01
+69,Nonie,Corcoran,32,Femenino,FullS,0.64
+70,Sela,Toby,57,Femenino,Back,3.25
+71,Hyacinthie,Dowsing,37,Femenino,FullS,0.49
+72,Roobbie,Courcey,45,Masculino,Back,3.26
+73,Zonda,Walsh,25,Femenino,Front,0.36
+74,Jacqui,Oddy,29,,Front,1.87
+75,Anatola,Ciardo,31,Femenino,Front,3.22
+76,Nealon,Frenzel;,55,Femenino,FullS,1.78
+77,Gilbertine,Ingerfield,58,,Front,0.07
+78,Lucky,Severwright,52,Masculino,Front,1.1
+79,Noreen,Stean,35,Femenino,FullS,1.01
+80,Brad,Stonhard,22,Femenino,Front,2.67
+81,Yul,Manvelle,24,Masculino,Back,0.12
+82,Clerissa,Haliburn,21,Masculino,Front,3.95
+83,Kelbee,Colam,43,Femenino,FullS,1.66
+84,Martie,Barbary,54,,Front,
+85,Madlen,Dunbleton,47,,Front,1.14
+86,Laurette,Quiddinton,24,,Back,3.46
+87,Selene,Eddis,59,Femenino,Back,0.65
+88,Gwyn,Graber,39,Femenino,Front,1.17
+89,Tiffie,Josebury,52,No Binario,FullS,2.86
+90,Jayson,Beinke,56,No Binario,Front,3.85
+91,Uriah,Falls,58,Femenino,Front,2.14
+92,Sheff,Apps,25,Masculino,Back,3.27
+93,Kimberli,Maciejewski,16,No Binario,Front,
+94,Evin,Bourrel,59,No Binario,FullS,0.57
+95,Kare,Malby,25,No Binario,Front,3.94
+96,Mariana,Foulds,35,No Binario,Front,3.61
+97,Corliss,Fraanchyonok,49,Femenino,FullS,1.11
+98,Thaddeus,Abbets,39,Femenino,FullS,0.57
+99,Ethelind,Mathivat,19,Femenino,Front,
+100,Ashien,Scay,27,,FullS,2.32
+101,Latrina,Jirak,52,Femenino,Back,3.33
+102,Norry,Cafe,57,No Binario,Front,1.73
+103,Aguie,Yerborn,32,Femenino,Back,2.07
+104,Launce,Worling,,Femenino,Front,
+105,Sara-ann,Brodbin,25,,Back,2.97
+106,Dani,Mitchinson,51,Femenino,Front,2.75
+107,Vera,Pirson,29,Femenino,Front,3.75
+108,Weber,Sahlstrom,28,Masculino,Front,2.08
+109,Gayle,Leyband,31,Masculino,Back,3.53
+110,Rosalia,Gietz,28,Femenino,FullS,2.41
+111,Andriana,Prudham,38,Femenino,Back,2.23
+112,Ram,Luttgert,20,Femenino,Front,0.58
+113,Syman,Finnimore,,Masculino,Front,3.09
+114,Haven,Couling,50,Femenino,Front,3.83
+115,Brook,Mattschas,32,Femenino,Back,3.14
+116,Angil,Tattersall,24,Masculino,Back,
+117,Danit,Dunning,24,Masculino,Back,1.86
+118,Gabi,Sothern,44,Femenino,Back,0.12
+119,Andres,Boswood,,Femenino,Back,2.04
+120,Joannes,Bedrosian,44,Masculino,Front,2.96
+121,Jennee,Partener,,Femenino,Back,0.24
+122,Mildrid,Ferenczy,48,Femenino,Back,1.97
+123,Bo,Station,,Femenino,Front,3.55
+124,Brynn,Dalligan,31,,Front,0.66
+125,Susi,Maylor,60,Femenino,Back,3.62
+126,Kimble,Davy,,Masculino,Front,3.93
+127,Lee,Sherrin,42,Masculino,FullS,0.43
+128,Matthias,Oriel,46,Masculino,FullS,0.43
+129,Buffy,Karolowski,24,No Binario,Back,1.4
+130,Mycah,Issit,48,Femenino,Back,1.77
+131,Eirena,Dougill,44,Femenino,,3.89
+132,Malcolm,Casale,55,Masculino,Back,0.81
+133,Natka,Dallman,24,Masculino,Front,
+134,Amie,Killner,41,,,0.37
+135,Pris,MacCrackan,26,Femenino,Front,0.43
+136,Bryon,Hallbord,43,Femenino,Front,0.78
+137,Milissent,Grievson,53,,Front,
+138,Reginauld,Beau,36,,Front,3.88
+139,Maurie,Fausch,29,Femenino,Front,0.01
+140,Miller,Bloor,41,Femenino,Back,1.78
+141,Maritsa,Whetland,51,Femenino,FullS,1.58
+142,Horatius,Dearnaley,48,Masculino,Front,3.62
+143,Munroe,McComas,53,Femenino,Back,2.07
+144,Scottie,Goodall,17,Femenino,Front,1.89
+145,Mariska,Dimanche,59,Femenino,Front,2.24
+146,Hi,Cannings,,Femenino,Front,2.71
+147,Laney,Bittlestone,31,Femenino,Back,3.37
+148,Dyanne,Gayter,24,Femenino,FullS,0.5
+149,Klarika,Banting,42,Masculino,Front,3.46
+150,Bary,Craythorn,34,Masculino,Back,1.78
+151,Karoline,Leonard,43,Masculino,Back,3.55
+152,Elie,Greschke,40,,Back,0.89
+153,Gay,McCaughey,25,,Back,0.36
+154,Carlyle,Shoute,59,No Binario,FullS,3.66
+155,Kelcey,Cecere,60,Masculino,Front,0.16
+156,Tera,Tumasian,58,Masculino,Back,2.56
+157,Nil,Bert,37,Femenino,Front,2.93
+158,Adelind,Carn,40,Femenino,Front,0.51
+159,Devin,Stanborough,47,Femenino,Front,1.77
+160,Kate,Pocklington,20,,Front,3.97
+161,Kendal,Davitashvili,29,Masculino,Back,
+162,Robbi,Learned,45,Femenino,Front,3.97
+163,Melinde,Broodes,44,Femenino,FullS,0.59
+164,Constantine,Sotham,29,Femenino,Front,1.71
+165,Andie,Stopper,55,No Binario,Front,2.57
+166,Adriaens,Cadwell,48,No Binario,,0.71
+167,Fabian,Wykey,41,No Binario,Front,
+168,Isadore,Burchall,25,Masculino,Front,3.62
+169,Waly,Rospars,38,Femenino,FullS,0.48
+170,Shirley,Fellowes,50,Femenino,Back,2.81
+171,Neila,Rushmer,40,No Binario,Front,2.58
+172,Chrissie,Lakeman,48,Femenino,Front,1.25
+173,Starlene,Jiggen,51,Femenino,Front,0.39
+174,Ofella,Worsfold,43,,Front,2.94
+175,Marybelle,Goshawk,,Masculino,Front,
+176,Jase,Paal,48,Femenino,Back,3.5
+177,Antonin,Maplethorp,50,Femenino,Front,0.37
+178,Janelle,Joll,39,Femenino,FullS,2.68
+179,Belita,D'Ambrosi,35,No Binario,FullS,3.19
+180,Aymer,Gallimore,48,,Front,0.82
+181,Jsandye,Negal,17,,Back,1.91
+182,Jeffry,Swyn,26,Femenino,Front,1.59
+183,Lion,Rollings,37,Femenino,Back,1.53
+184,Loleta,Goldhawk,43,Masculino,Front,0.65
+185,Tasia,Salvatore,25,Femenino,Front,2.07
+186,Damien,Huxtable,53,Femenino,Front,1.6
+187,Junina,Crosen,52,Femenino,FullS,1.98
+188,Netti,Coppock.,44,No Binario,FullS,
+189,Roxana,Glencrosche,60,Masculino,Back,2.65
+190,Tom,Profit,25,Femenino,Front,0.19
+191,Larine,Fozzard,36,Femenino,Back,3.47
+192,Gerta,Btham,44,Femenino,Front,2.74
+193,Valry,Balasini,29,Femenino,Front,1.95
+194,Silvain,Henkens,32,,Front,1.29
+195,Vivian,Huxster,25,,FullS,3.62
+196,Dirk,Formoy,40,No Binario,Front,2.4
+197,Dee dee,Pattemore,20,Masculino,Front,0.42
+198,Dela,Kalaher,57,Femenino,Front,3.46
+199,Janela,Liffe,60,Masculino,Front,3.43
+200,Noach,Lozano,34,Femenino,FullS,1.68
+201,Elisha,Blasdale,52,Femenino,Back,3.21
+202,Didi,Dunkerley,27,No Binario,Front,0.25
+203,Anica,Shiel,,,Back,3.03
+204,Gwendolen,Gillise,45,Femenino,Back,3.14
+205,Marji,Randales,19,,Front,1.11
+206,Madonna,Edie,23,Masculino,Front,1.35
+207,Daisi,Veryan,46,,Back,3.47
+208,Lonna,Whatley,41,Femenino,Back,2.34
+209,Marybelle,Hugnin,60,Masculino,FullS,0.94
+210,Dunc,Room,42,Femenino,Back,1.76
+211,Shayla,Bouskill,59,Femenino,Front,2.8
+212,Jan,O'Currine,,Femenino,Back,2.02
+213,Mallory,Lawson,,Femenino,Back,3.0
+214,Karissa,Harp,32,Masculino,FullS,0.37
+215,Gris,Sammars,23,Femenino,Back,2.15
+216,Vi,Cannavan,34,Femenino,Front,2.29
+217,Anthony,Dowdall,41,Femenino,Front,
+218,Janeva,Tangye,35,Femenino,Front,2.73
+219,Dur,Whitby,34,Masculino,Back,3.12
+220,Anica,Firbanks,34,Masculino,FullS,2.78
+221,Johnathon,Tessyman,,,FullS,
+222,Hardy,Dollin,59,Femenino,FullS,2.22
+223,Emily,Macro,30,,Back,1.87
+224,Tracy,Brame,54,Masculino,FullS,
+225,Camellia,Munn,21,Masculino,,3.45
+226,Toiboid,Pascoe,34,No Binario,Front,0.97
+227,Felicio,Barnshaw,20,,Front,2.1
+228,Biddy,Done,36,Masculino,Front,0.73
+229,Ileane,Nibloe,52,Femenino,Front,2.5
+230,Laurie,Skeermer,50,Masculino,FullS,1.14
+231,Clare,Harries,38,Masculino,,0.66
+232,Skip,Blanch,39,Masculino,Front,0.25
+233,Alverta,Zapata,48,Masculino,Back,1.95
+234,Tony,Straker,16,Femenino,FullS,1.55
+235,Becca,Adamovicz,39,Masculino,Front,3.34
+236,Astrid,Bruyet,32,Masculino,Back,0.66
+237,Bob,Joanic,55,Femenino,Back,1.63
+238,Thibaud,Crosswaite,36,Masculino,Back,2.33
+239,Shari,Houchin,34,Femenino,FullS,0.71
+240,Pammie,Kalisz,32,Masculino,FullS,0.37
+241,Hedwiga,Harrison,23,Masculino,Front,1.99
+242,Edik,Mortimer,33,Femenino,Front,3.3
+243,Tanney,Scutcheon,20,Femenino,Front,2.15
+244,Stella,Eixenberger,,,FullS,1.23
+245,Jacenta,Petticrow,56,Femenino,Front,2.06
+246,Clayborn,Lettson,32,Masculino,Front,
+247,Adrien,Corneljes,32,Femenino,Front,3.44
+248,Jeana,Fellman,44,Masculino,Front,2.04
+249,Fern,McIlharga,20,Femenino,Front,1.8
+250,Huntlee,Sudddard,54,Masculino,FullS,1.93
+251,Felicio,Emor,21,,Front,3.48
+252,Stefano,Dealey,38,No Binario,Front,1.92
+253,Grazia,Brainsby,53,Femenino,Front,0.12
+254,Lois,Longmire,35,Femenino,Back,2.1
+255,Aristotle,Wollacott,30,Femenino,Back,
+256,Lazare,Moylane,22,Femenino,FullS,2.14
+257,Eddie,Duchesne,27,Femenino,Front,3.89
+258,Stevy,Kasman,21,No Binario,FullS,0.74
+259,Malachi,Bikker,23,Femenino,Front,1.46
+260,Kassandra,Skillings,50,Masculino,Front,2.22
+261,Bentley,Marquess,51,Masculino,Back,0.87
+262,Camala,Glide,29,Femenino,Front,0.1
+263,Daven,Caillou,59,Femenino,Front,
+264,Jase,Dawidsohn,44,Masculino,Back,3.62
+265,Penrod,Featenby,35,Femenino,Front,1.02
+266,Gretal,Cochran,55,No Binario,Front,1.67
+267,Sofie,Deakin,22,,Front,0.7
+268,Krishna,McKoy,16,No Binario,Front,1.0
+269,Emelita,Rentenbeck,,Femenino,Front,1.62
+270,Leonard,Tanswill,35,Femenino,Front,2.57
+271,Kylila,Mugford,,No Binario,Front,2.83
+272,Beilul,Rheam,51,Femenino,Back,0.47
+273,Michaela,Godwin,,Femenino,FullS,1.89
+274,Oswald,MacEntee,21,No Binario,Front,1.77
+275,Darell,Wickes,22,Femenino,FullS,2.54
+276,Sianna,Sanson,57,,FullS,0.96
+277,Aube,Barrar,23,Femenino,Back,1.75
+278,Pammi,Hoofe,52,Masculino,Front,2.61
+279,Kristofer,Tomas,25,Femenino,Front,1.46
+280,Dannie,O'Fairy,43,Femenino,Back,1.08
+281,Barde,Hebbard,,Femenino,Back,3.72
+282,Lorrie,Kettleson,32,Masculino,Back,0.14
+283,Orella,Peasegod,56,Femenino,Front,3.48
+284,Robinson,Raggatt,40,Masculino,FullS,1.89
+285,Sioux,Curmi,22,Masculino,Front,3.8
+286,Darell,Clunan,50,Femenino,Front,2.4
+287,Nelly,Gorriessen,,Femenino,Back,2.44
+288,Antonina,Burmingham,31,,FullS,3.68
+289,Layton,Bagge,30,,FullS,3.96
+290,Cinderella,Hiers,25,Masculino,FullS,1.91
+291,Mamie,Mark,32,Masculino,Back,0.89
+292,Casper,Bryden,32,Femenino,Front,3.99
+293,Paolo,Mallya,23,Femenino,Back,2.92
+294,Frederica,Chezelle,29,Masculino,FullS,0.04
+295,Nelly,Kuban,38,Masculino,Front,2.37
+296,Amandie,Durrance,52,No Binario,Front,2.81
+297,Barri,Frizzell,56,Femenino,Back,2.33
+298,Jan,Lince,59,Femenino,Front,1.42
+299,Myrta,Digle,46,,Front,0.37
+300,Dukey,Crocket,54,,Back,1.76
+301,Free,Moralee,,Masculino,Front,2.0
+302,Barbra,Pasquale,20,Masculino,FullS,3.39
+303,Gregorio,Carnaman,39,Femenino,Front,0.24
+304,Billie,Doman,32,Masculino,Front,1.51
+305,Marve,Vinton,34,No Binario,Front,0.61
+306,Willi,Bernth,19,Masculino,FullS,1.22
+307,Dari,Leer,52,Femenino,Front,1.51
+308,Nick,Symcox,46,No Binario,Front,
+309,Matias,Rodden,46,Femenino,Back,2.75
+310,Lou,Owen,35,Masculino,Front,1.27
+311,Cull,Archard,60,Masculino,Front,2.89
+312,Karel,Osban,32,Masculino,Front,2.22
+313,Evie,Honywill,32,,FullS,3.78
+314,Dorice,Garman,56,Masculino,,0.89
+315,Dorry,Parfett,58,Femenino,Back,0.22
+316,Shannah,Sharrem,50,Masculino,FullS,3.44
+317,Mel,Bramont,,Masculino,Front,0.29
+318,Leslie,Doig,57,Femenino,Back,2.07
+319,Rebekah,Pippard,25,Masculino,Front,1.29
+320,Pierette,Henrion,52,Masculino,Front,3.12
+321,Rubetta,Osman,50,Masculino,FullS,3.46
+322,Cariotta,Yu,44,Femenino,Front,3.54
+323,Udale,Kobelt,26,Femenino,Back,0.74
+324,Maurice,Emeline,51,Femenino,Front,
+325,Herminia,Fall,34,Masculino,FullS,0.73
+326,Gerard,Langsbury,33,Masculino,Back,3.82
+327,Jenifer,Fluger,56,No Binario,Front,3.6
+328,Brennen,Brigg,52,Masculino,Front,0.63
+329,Northrup,Antuoni,51,Femenino,Front,
+330,Penni,Tripon,29,,Front,1.91
+331,Zonda,Tommaseo,36,Femenino,Front,3.85
+332,Lusa,Haysar,27,Masculino,FullS,1.33
+333,Louis,Rabley,29,Masculino,,0.76
+334,Milicent,Caldaro,29,Femenino,FullS,2.16
+335,Emelia,Tanser,58,Femenino,FullS,3.92
+336,Cordie,Tutill,33,Femenino,FullS,3.2
+337,Shanna,Barosch,34,Masculino,FullS,1.76
+338,Barnie,Mapam,43,Masculino,FullS,0.32
+339,Sheila,Pedreschi,56,Masculino,Back,3.06
+340,Yetta,Gresham,40,Masculino,FullS,3.17
+341,Norry,Ivetts,25,Femenino,FullS,1.82
+342,Grantham,Reynold,47,Masculino,Back,2.28
+343,Vida,Helder,27,No Binario,FullS,2.78
+344,Tybie,Pryor,23,,FullS,1.18
+345,Reeva,Pothergill,56,No Binario,Front,
+346,Myrtia,McConnal,55,Femenino,Front,1.97
+347,Carlota,Gregolotti,46,,Front,0.49
+348,Alta,Clutterbuck,51,Femenino,FullS,1.63
+349,Kendrick,Bindin,25,Femenino,Front,
+350,Elsbeth,Giannassi,,,Front,0.43
+351,Gustavo,Ditty,34,No Binario,FullS,0.49
+352,Darrell,Waterhouse,35,Femenino,Back,
+353,Hana,Dufore,32,Femenino,Back,0.58
+354,Berky,Witcomb,55,Femenino,Front,0.82
+355,Carce,Henric,59,Femenino,Front,1.91
+356,Lisbeth,Lyndon,27,Femenino,FullS,0.73
+357,Harli,Annand,30,Masculino,FullS,0.1
+358,Addison,Klaffs,54,Masculino,Front,3.45
+359,Michele,Echallier,41,Femenino,Front,3.81
+360,Ursala,Tuckwood,25,Masculino,Front,1.0
+361,Egon,Charteris,,Femenino,,1.24
+362,Allyn,Haggleton,60,No Binario,FullS,2.53
+363,Dorie,Kopke,47,Femenino,Front,0.48
+364,Elyn,Crewes,49,Femenino,Back,3.28
+365,Charlena,Yannikov,16,,Front,0.36
+366,Griffy,Itzik,36,Femenino,Front,0.58
+367,Ced,Boleyn,57,Femenino,Front,2.02
+368,Cari,Elsie,48,No Binario,Front,1.32
+369,Ralf,Humes,55,Femenino,Back,2.21
+370,Jackie,Camacke,24,Femenino,FullS,2.8
+371,Mitchell,Floyd,36,Masculino,Back,2.76
+372,Taddeo,Hearnaman,50,Femenino,Front,1.22
+373,Godfry,Rivalland,46,Masculino,Front,1.87
+374,Maureen,Harriot,45,No Binario,,1.28
+375,Charita,Halpeine,,Femenino,Front,1.03
+376,Rosanna,O'Hern,45,Femenino,Front,3.2
+377,Skyler,Clyma,19,Masculino,Front,0.95
+378,Lurlene,Bunting,20,No Binario,Front,1.15
+379,Joella,McGawn,21,Femenino,Back,1.55
+380,Tawsha,Yeoland,58,Femenino,Back,3.33
+381,Lavina,Fetherstonhaugh,36,Masculino,Front,2.56
+382,Shalne,Klaiser,,,Front,0.79
+383,Tailor,Aleksankin,55,Femenino,Back,2.4
+384,Gratiana,McGuffog,51,Femenino,Front,2.2
+385,Jeanne,St. Paul,22,,Front,1.47
+386,Sansone,Gregolin,20,Femenino,Front,1.71
+387,Pete,Coker,35,Masculino,FullS,1.15
+388,Alvan,Helstrom,41,Femenino,Front,0.25
+389,Marley,Curle,26,,Front,3.03
+390,Tabatha,Biggar,54,Masculino,Front,2.93
+391,Kathryne,Lortz,17,Masculino,FullS,1.6
+392,Joela,Ballefant,34,Masculino,Front,2.12
+393,Aggy,Huett,41,Femenino,Front,2.78
+394,Meara,Scoles,41,Masculino,Back,
+395,Carolann,Calderhead,22,Femenino,Front,2.01
+396,Mady,Beebe,27,Femenino,Front,3.74
+397,Ernesto,Skule,35,Femenino,Front,1.9
+398,Patricia,Caffrey,,No Binario,Back,1.19
+399,Cayla,Duker,19,Masculino,,0.63
+400,Marya,Yukhtin,,Masculino,Front,0.24
+401,Jeffy,Nossent,,,Front,1.87
+402,Dani,Baud,44,Masculino,,0.03
+403,Kittie,Shapcote,26,No Binario,Front,0.61
+404,Sib,Purshouse,54,Masculino,FullS,1.25
+405,Kylen,Ricciardiello,39,Femenino,Front,3.81
+406,Rozelle,Dumpleton,35,No Binario,FullS,3.65
+407,Yvette,Reams,34,No Binario,Back,2.8
+408,Gillian,Berryman,60,Masculino,Front,0.19
+409,Tonya,Sellen,,,Front,2.67
+410,Giacobo,Di Maggio,28,,FullS,1.25
+411,Marylynne,Ashall,44,Femenino,Front,
+412,Ermin,Bidwell,47,Femenino,Front,
+413,Walliw,Mattingley,34,Masculino,FullS,2.81
+414,Rustie,McAlees,17,Masculino,Back,2.21
+415,Marietta,Fehners,39,Femenino,Front,3.49
+416,Lindsay,McNaughton,52,,Back,0.92
+417,Dita,Bristowe,27,Femenino,Back,2.56
+418,Helen,Kisbee,31,Masculino,Front,2.59
+419,Shaine,Gerardet,45,,Front,0.38
+420,Si,L' Estrange,38,Femenino,Back,0.98
+421,Diannne,Everton,55,Femenino,Back,3.53
+422,Reeva,Baniard,18,Masculino,Front,0.79
+423,Bennie,Pennyman,23,Femenino,Back,2.64
+424,Ervin,Astridge,,Femenino,Front,3.44
+425,Nehemiah,Denford,29,,Front,
+426,Reilly,O'Henehan,37,Femenino,Front,1.21
+427,Paco,Cruise,19,Masculino,Front,1.6
+428,Burl,Yansons,52,Femenino,Front,0.82
+429,Hazel,Helder,60,Masculino,Front,0.78
+430,Jerrilyn,McConway,38,Femenino,Front,3.81
+431,Farrell,Selley,,No Binario,Back,1.14
+432,Mame,Blodg,44,Femenino,Front,3.16
+433,Ev,Meron,27,Femenino,Front,1.46
+434,Alwyn,Jeschner,48,Masculino,Back,1.5
+435,Maxy,Tewnion,44,Femenino,Back,2.59
+436,Domeniga,Burgoine,22,Femenino,FullS,2.88
+437,Bobbe,Leve,18,No Binario,Front,0.23
+438,Moll,Rattery,27,Masculino,Front,0.08
+439,Stephi,Magee,29,Femenino,Back,0.58
+440,Julian,Howselee,26,No Binario,Back,2.84
+441,Kelsey,Reynolds,42,Femenino,Front,0.72
+442,Ned,Labes,57,Masculino,FullS,2.29
+443,Maggie,Vasilechko,37,Femenino,FullS,3.54
+444,Maudie,Cazereau,49,Femenino,FullS,3.74
+445,Scottie,Antrum,34,Masculino,Back,1.96
+446,Byrom,McDowell,53,Femenino,Front,1.4
+447,Trent,cornhill,51,No Binario,Back,3.4
+448,Thacher,Inkles,27,No Binario,Back,3.04
+449,Loraine,Ridel,59,,Front,3.14
+450,Ulises,Romera,21,Femenino,Back,0.87
+451,Reid,Drakers,48,Femenino,Back,
+452,Sadella,Phillimore,17,Femenino,FullS,1.59
+453,Andriette,Edowes,58,No Binario,FullS,1.88
+454,Paulie,Bonde,,Femenino,Front,1.73
+455,Maressa,Kinghorne,28,Masculino,Back,0.89
+456,Lydon,Riccardo,35,Femenino,FullS,0.91
+457,Sapphire,Saill,51,No Binario,Front,0.09
+458,Mikkel,Bamlett,46,,Front,2.12
+459,Sunny,Bowmer,42,,,2.11
+460,Augusto,Iddison,16,Masculino,FullS,3.86
+461,Arly,Bolley,59,Masculino,Front,3.53
+462,Carlina,Parnby,53,Femenino,Front,1.71
+463,Gladys,Danne,23,Femenino,FullS,1.44
+464,Whittaker,Gateland,23,,Back,0.76
+465,Cherilynn,Whysall,27,Masculino,Front,0.36
+466,Fidelity,Rankcom,21,,Front,0.52
+467,Katina,Glide,28,Femenino,FullS,3.05
+468,Dex,Tansly,37,Femenino,Back,2.31
+469,Manon,Turn,49,No Binario,Front,3.48
+470,Nigel,Crier,26,Femenino,Back,0.21
+471,Lucy,Bortolussi,49,Femenino,Front,2.62
+472,Derrick,Doody,53,Femenino,Back,2.02
+473,Nathalia,Petrus,45,No Binario,Front,2.72
+474,Tait,Gidney,46,Femenino,Front,2.85
+475,Tuckie,Riepel,19,Masculino,Front,3.46
+476,Mayne,Gooly,44,No Binario,Front,0.05
+477,Morris,Tilbrook,,Masculino,Back,3.3
+478,Olav,Loosemore,25,No Binario,Front,3.67
+479,Angus,Norrie,42,,FullS,0.82
+480,Crawford,Kleeman,22,No Binario,FullS,
+481,Clary,Bredgeland,18,Femenino,Back,1.15
+482,Alla,Balderson,47,Masculino,Back,0.06
+483,Billi,Mangam,59,,Back,3.48
+484,Ingrim,Saywell,16,,Back,2.12
+485,Yvonne,Courage,16,No Binario,Front,0.29
+486,Heidie,Berriman,49,,Front,2.76
+487,Issiah,Jaqueminet,55,Femenino,Front,1.63
+488,Felipe,Hamor,44,Masculino,Back,3.53
+489,Glendon,Niblett,58,,FullS,0.78
+490,Angelo,Bowdery,35,Masculino,FullS,3.93
+491,Troy,Krabbe,17,,FullS,
+492,Morty,Capstack,44,Masculino,Back,0.13
+493,Sibbie,Candwell,44,Femenino,Front,2.42
+494,Tamra,Weatherley,24,,Back,2.79
+495,Garey,de Courcey,33,Femenino,Front,0.53
+496,Preston,Woehler,33,Femenino,Front,0.45
+497,Ronna,Tutchener,45,No Binario,Front,0.8
+498,Miller,O'Lunney,40,Masculino,Front,0.51
+499,Hallsy,Yarnold,28,Masculino,FullS,2.06
+500,Joete,Bruggeman,20,,,
+501,Tuck,Schimaschke,39,Femenino,Back,0.5
+502,Dannel,Dennerley,37,,Front,
+503,Glendon,Atterbury,16,Masculino,Front,2.19
+504,Meriel,Frere,56,Femenino,Front,0.22
+505,Wylma,Keston,39,,Front,2.47
+506,Jamesy,McConnulty,21,Masculino,Back,2.37
+507,Constanta,Legendre,56,,Front,2.92
+508,Malissa,Gladwish,24,Femenino,FullS,2.41
+509,Salomon,Copsey,18,Masculino,Front,0.42
+510,Bobette,Dimitrov,,,Front,3.18
+511,Mandie,Counihan,26,Femenino,Front,2.93
+512,Alia,Dengate,48,Femenino,FullS,3.5
+513,Alwyn,Winsper,18,Masculino,Front,3.79
+514,Richy,Beasant,19,No Binario,FullS,3.4
+515,Erhard,Barff,46,No Binario,Front,3.56
+516,Tirrell,Trimble,53,No Binario,Back,3.78
+517,Immanuel,Jervis,54,,Front,3.04
+518,Kakalina,Artiss,19,Femenino,FullS,3.74
+519,Steffen,Cuttelar,48,Femenino,Back,1.92
+520,Biddie,Ickovic,46,Masculino,FullS,1.86
+521,Cleavland,Daskiewicz,30,,Front,
+522,Gillian,Riccione,56,Masculino,Front,2.78
+523,Oralie,Diamant,38,Masculino,Front,2.42
+524,Harman,Feechum,60,Femenino,Front,2.24
+525,Antonie,McNeachtain,43,Femenino,Back,1.26
+526,Madel,Martellini,20,Femenino,Front,0.76
+527,Helena,Whaplington,35,Masculino,Front,2.38
+528,Sharlene,Wyllt,32,Masculino,Front,2.45
+529,Lydia,Assinder,37,,Back,0.28
+530,Cordie,Edelmann,38,Masculino,FullS,1.02
+531,Harrison,De Luna,53,,Front,1.75
+532,Sofie,Hallford,38,Masculino,Front,2.33
+533,Dewey,Fransseni,16,Femenino,Back,3.04
+534,Feodora,Woollacott,48,Masculino,Front,3.26
+535,Lark,Cubbon,23,Masculino,Back,2.18
+536,Fina,Volks,23,Femenino,Back,0.51
+537,Sonni,Ogborne,28,Masculino,Front,3.02
+538,Sonnnie,Glastonbury,35,Femenino,Front,
+539,Lucie,Salt,51,Femenino,FullS,3.6
+540,Merrily,Parmenter,54,No Binario,FullS,2.3
+541,Patrice,McElwee,53,Femenino,Front,0.93
+542,Alejandra,Dyzart,33,Femenino,Front,2.63
+543,Leslie,Bilborough,52,Femenino,FullS,
+544,Clarabelle,Furlonge,60,Femenino,FullS,2.44
+545,Zebedee,Arnold,25,Femenino,FullS,0.8
+546,Robena,Ebbrell,29,,,0.22
+547,Leonard,Peacocke,58,Femenino,Front,0.8
+548,Wallis,Poor,22,Femenino,Front,1.11
+549,Wynny,Thaxter,53,Femenino,,0.45
+550,Shurlock,Neale,29,Masculino,Back,2.65
+551,Ailyn,Oxherd,28,,Front,2.63
+552,Morlee,Utley,57,Masculino,Back,2.37
+553,Merrie,Yarmouth,36,Femenino,Front,0.94
+554,Laural,Morrish,42,Masculino,Front,2.99
+555,Fanechka,Eliesco,55,No Binario,FullS,1.6
+556,Fritz,Reschke,22,Femenino,Front,2.58
+557,Walden,Vinson,24,Masculino,Front,1.55
+558,Eleonora,Kearsley,,Masculino,Front,3.09
+559,Clem,McGenn,,Femenino,Front,0.53
+560,Eleanor,Goseling,30,Femenino,Back,0.37
+561,Jillian,Folliott,24,Femenino,FullS,3.0
+562,Cob,Chable,19,No Binario,FullS,0.27
+563,Teodorico,Sawell,42,Femenino,Back,3.7
+564,Kirk,Giorgietto,57,,Back,3.75
+565,Lawry,Nottingam,32,Masculino,FullS,0.66
+566,Felizio,Ziehm,,Masculino,Back,3.05
+567,Joete,Adney,17,Masculino,,1.64
+568,Obidiah,Cavan,46,Masculino,Front,3.95
+569,Aurthur,Auchterlonie,36,Masculino,Front,1.48
+570,Willetta,Dyet,30,Femenino,Front,3.9
+571,Arabel,Rosenblatt,21,Femenino,Back,0.96
+572,Herman,Dibnah,29,Masculino,Back,2.71
+573,Dorris,Ovize,53,Femenino,FullS,1.09
+574,Eileen,Summergill,17,Masculino,Back,1.18
+575,Catharine,Bretherick,27,Femenino,Back,3.49
+576,Ruby,Goode,34,Femenino,Front,3.58
+577,Jane,Caple,53,Femenino,Back,3.68
+578,Darbee,Keightley,52,Femenino,FullS,2.32
+579,Lib,Broderick,32,Femenino,Back,0.98
+580,Cammy,Satterley,58,Femenino,Back,2.65
+581,Jojo,Teasell,44,Masculino,Back,3.53
+582,Dianne,Rolfe,29,Masculino,Front,0.42
+583,Frederica,Plumptre,38,Masculino,Front,
+584,Kath,Roscow,53,Femenino,FullS,1.69
+585,Darlleen,Ivashnyov,17,,Front,1.83
+586,Dominik,Glanister,58,Masculino,Front,2.48
+587,Lilyan,Lowre,31,,FullS,3.14
+588,Ailyn,Halpeine,56,Femenino,Back,
+589,Lazarus,Norheny,28,No Binario,FullS,2.0
+590,Deedee,Peealess,24,Masculino,Back,0.48
+591,Franciska,Toovey,42,Femenino,Back,1.35
+592,Berke,Barbara,35,Femenino,Front,0.88
+593,Maisey,Sheircliffe,49,No Binario,FullS,0.02
+594,Claretta,Claesens,59,Masculino,Back,1.53
+595,Emmalynne,Groves,37,,FullS,1.1
+596,Shep,Kleisle,28,Femenino,Front,2.4
+597,Sigismond,Prebble,19,Femenino,Back,1.45
+598,Georges,Knoles,31,Femenino,FullS,3.41
+599,Iseabal,Hagan,16,Masculino,Back,3.68
+600,Temple,Culpin,55,Masculino,FullS,3.09
+601,Hakeem,Brunicke,41,Femenino,Front,2.18
+602,Sherlock,Krysztofiak,,Femenino,Front,1.92
+603,Bent,Dederich,47,Femenino,Front,0.87
+604,Euphemia,Kynoch,55,Femenino,Front,1.32
+605,Missie,Smallridge,37,Masculino,Front,3.45
+606,Adella,South,53,Masculino,Back,1.24
+607,Phoebe,Goodinge,22,No Binario,Back,1.47
+608,Dov,Vaud,32,Masculino,Front,3.62
+609,Leesa,Nealy,55,Femenino,Back,2.38
+610,Marv,Blondin,20,Masculino,Front,3.28
+611,Richmound,Detoile,32,Femenino,Front,0.8
+612,Kimberlee,McCrostie,38,,Front,2.67
+613,Shanon,Casillas,35,Femenino,Back,2.9
+614,Gilda,Mixture,53,Femenino,Front,1.87
+615,Huntley,Cholomin,27,Masculino,Front,0.39
+616,Elinore,Besemer,52,Femenino,FullS,3.56
+617,Mellicent,Chown,20,Femenino,FullS,
+618,Meggie,Gerson,49,Femenino,FullS,2.94
+619,Eula,Crossby,56,Masculino,Front,2.36
+620,Cecil,Menlove,39,Femenino,Back,3.84
+621,Rufe,Fannon,30,Masculino,Front,0.67
+622,Kyla,Powers,26,No Binario,Back,1.4
+623,Barn,Bradtke,28,No Binario,Front,2.32
+624,Clyde,Deares,,Masculino,Back,2.98
+625,Kayle,Walkingshaw,33,Femenino,Back,2.01
+626,Bertrando,Smedmore,30,Femenino,Front,2.66
+627,Bekki,Polet,51,Masculino,Front,3.57
+628,Glen,Pardi,22,Femenino,Back,0.45
+629,Becka,Matyushenko,21,Masculino,Front,3.21
+630,Townie,Reeme,16,Femenino,Front,0.68
+631,Eamon,Jeffery,50,,Back,1.94
+632,Donnamarie,O'Cooney,44,Femenino,Back,0.55
+633,Craggie,Eidler,58,Femenino,Front,3.79
+634,Trip,Davids,57,Femenino,Front,2.98
+635,Darb,Rembrandt,35,Femenino,Front,1.03
+636,Odie,Stewartson,33,Masculino,Front,2.37
+637,Brewster,Champerlen,24,Femenino,FullS,2.53
+638,Carry,Jeffreys,57,Femenino,Back,1.85
+639,Emmalyn,Avieson,59,Femenino,Back,0.99
+640,Arvin,Castard,29,Femenino,Back,0.08
+641,Tyler,Krzyzaniak,27,Femenino,Front,1.52
+642,Cherlyn,Estcourt,33,Femenino,Front,0.7
+643,Sunshine,Eyeington,34,No Binario,Back,3.46
+644,Merrill,Forlong,38,Femenino,FullS,1.59
+645,Arlen,Thirlwall,27,No Binario,Front,1.27
+646,Sherie,Osment,42,Masculino,Front,0.16
+647,Brewster,Woodson,24,Femenino,Front,0.13
+648,Seward,Kubal,31,Femenino,FullS,3.36
+649,Morissa,Pavie,20,Femenino,Back,1.15
+650,Korie,Whiffen,29,Masculino,Back,0.21
+651,Henrie,London,26,Masculino,Back,
+652,Jeremie,Elderton,22,Femenino,Back,2.06
+653,Vicki,Gentzsch,46,No Binario,Front,1.52
+654,Moreen,Diehn,,Femenino,Front,
+655,Karina,Lindeberg,45,Femenino,Front,0.5
+656,Gillie,Bloodworthe,45,Masculino,Back,1.45
+657,Trumaine,Ghelardi,45,Femenino,Front,
+658,Derrick,Oiseau,34,Femenino,Back,3.92
+659,Mirabelle,Hechlin,50,,Front,2.36
+660,Annalise,Thrussell,46,Masculino,Back,2.9
+661,Mirna,Lamberton,39,Masculino,Front,1.67
+662,Irwin,Chapple,39,Femenino,Front,0.07
+663,Ethelbert,Headley,58,Femenino,FullS,3.69
+664,Jesselyn,Beeckx,34,Femenino,Front,
+665,Tessi,Whiff,27,,Front,2.46
+666,Asia,McKinstry,,Masculino,FullS,2.54
+667,Timofei,Pendreigh,28,Femenino,Back,0.29
+668,Daven,Longthorne,39,Masculino,FullS,0.79
+669,Giacobo,Biasi,58,Masculino,Front,2.66
+670,Riannon,Kovnot,37,No Binario,Front,3.25
+671,Norris,Jess,,Femenino,Front,0.93
+672,Huntington,Blackford,37,Femenino,Front,3.03
+673,Bordy,Mennithorp,41,Femenino,Front,0.8
+674,Isabelle,Buzine,24,Femenino,Front,2.35
+675,Hedwiga,Turbitt,27,Masculino,Front,1.83
+676,Melesa,Klimsch,23,Femenino,Back,2.91
+677,Ely,Josephoff,45,Masculino,Back,0.74
+678,Pavel,Cluitt,41,Femenino,Front,1.42
+679,Ewen,Heavy,40,No Binario,Back,1.77
+680,Ali,Fairey,39,Femenino,Back,1.88
+681,Anya,Garie,57,Femenino,FullS,1.08
+682,Halette,Di Matteo,37,Masculino,Back,0.68
+683,Avram,Reynold,23,,Front,2.35
+684,Carter,Holliar,33,No Binario,Back,
+685,Brook,Choat,32,Femenino,FullS,2.65
+686,Andrus,Heinsen,50,Femenino,Back,0.76
+687,Renie,Alldread,48,,Back,3.69
+688,Zeke,Tawse,50,Femenino,Back,3.27
+689,Catharina,Thickett,43,Femenino,Front,
+690,Consuela,Dadson,35,No Binario,Front,2.92
+691,Wileen,Grisedale,46,No Binario,Back,3.28
+692,Nicolais,Pfeffer,21,Masculino,Back,3.21
+693,Avram,Phillis,59,Femenino,Front,0.36
+694,Benjy,Watford,54,Masculino,Back,1.98
+695,Mechelle,Graysmark,38,Masculino,Front,2.6
+696,Bentlee,Ferrarotti,53,,Front,3.34
+697,Kean,Dicken,48,Femenino,Front,2.25
+698,Breena,Fawltey,55,Femenino,Back,3.62
+699,Wallis,Sporle,,Masculino,Front,3.45
+700,Kristo,Malzard,19,,Back,2.69
+701,Odella,Hasselby,22,Masculino,Front,1.84
+702,Jamaal,Jedraszczyk,,Masculino,Front,3.77
+703,Tessi,Brick,23,Masculino,Front,0.89
+704,Irita,Tern,32,Masculino,Back,0.97
+705,Felike,Dederich,51,Femenino,Front,0.66
+706,Lynnell,Savin,53,Masculino,Front,1.11
+707,Bree,Philipson,33,Femenino,Front,0.03
+708,Doralin,Reach,27,No Binario,Back,3.48
+709,Peyter,Tsarovic,44,Femenino,Front,1.1
+710,Gaylord,Durtnell,45,Femenino,FullS,2.71
+711,Ardelis,Ricson,26,Femenino,Front,0.85
+712,Modesta,Tolomelli,45,Femenino,FullS,1.98
+713,Elita,Shovlar,18,Masculino,Back,2.7
+714,Devi,McDugal,27,Femenino,Front,2.98
+715,Brenna,Warbey,42,Femenino,Front,1.92
+716,Lolly,Lampett,45,Femenino,Front,1.23
+717,Stella,Foyster,,Femenino,Front,1.64
+718,Jephthah,Vanyushkin,17,Masculino,,0.91
+719,Ree,Ronaghan,19,Masculino,FullS,1.44
+720,Clerissa,Dalyell,25,Masculino,Back,1.25
+721,Petrina,Rubel,56,Femenino,Back,2.7
+722,Stella,Bande,53,Femenino,Front,2.56
+723,Violet,Poyntz,32,Femenino,Back,1.4
+724,Jerry,Falconer-Taylor,18,Femenino,Front,3.67
+725,Claudetta,Jodrelle,17,Femenino,FullS,3.05
+726,Lewiss,Cuttelar,55,Femenino,Front,3.97
+727,David,Serchwell,52,Femenino,Front,3.48
+728,Juditha,Mallion,50,,Back,0.82
+729,Charmane,Craster,24,Masculino,Front,1.55
+730,Dallas,Sessions,31,Femenino,Front,1.64
+731,Alaster,Musprat,48,Masculino,FullS,3.81
+732,Gradey,Malster,33,Femenino,Back,1.13
+733,Neil,Kerwood,59,Masculino,FullS,0.93
+734,Hussein,McGarrity,57,Femenino,FullS,1.73
+735,Davita,Calterone,17,Masculino,Back,1.02
+736,Alair,Sawkins,18,Masculino,FullS,0.76
+737,Darcey,Gorring,54,Masculino,FullS,0.78
+738,Rosabelle,Beneix,16,No Binario,Back,3.85
+739,Davin,Lesley,33,Femenino,FullS,1.44
+740,Jillane,Stear,44,No Binario,FullS,2.36
+741,Marmaduke,Mark,23,Femenino,Front,0.92
+742,Teodoro,Lydon,36,No Binario,Front,0.32
+743,Evita,Simonnet,48,Femenino,Front,0.88
+744,Sanderson,Swindell,21,Masculino,Front,2.4
+745,Rex,Pierpoint,26,Masculino,Front,1.89
+746,Rudolf,Binden,47,Masculino,Front,2.81
+747,Siward,Rochford,17,,Back,3.45
+748,Ossie,Dandie,58,Masculino,Back,3.07
+749,Tremayne,Philcott,57,Femenino,Back,1.28
+750,Cedric,Severn,52,No Binario,FullS,2.61
+751,Guglielmo,Loyns,16,Femenino,Front,1.55
+752,Halsey,Handman,54,Femenino,,1.03
+753,Kial,Dmiterko,17,,Front,3.6
+754,Betti,Swyne,28,Femenino,Front,2.97
+755,Jilly,Humberston,28,Femenino,FullS,1.56
+756,Celene,Oven,17,Masculino,Front,
+757,Jaymee,Biaggetti,53,Masculino,FullS,2.88
+758,Clea,Trudgeon,38,Femenino,Back,2.43
+759,Cece,Nusche,50,Femenino,Front,0.45
+760,Sada,Schultze,28,Masculino,Back,1.21
+761,Steffie,Longmate,47,Masculino,FullS,3.04
+762,Gasparo,Kingzeth,48,No Binario,Front,3.41
+763,Andrey,Callendar,45,No Binario,Front,0.48
+764,Steven,Hanburry,21,Masculino,FullS,
+765,Pris,Benardette,53,Femenino,Back,1.35
+766,Porter,McWhirter,60,,Front,1.65
+767,Mattie,Dommerque,57,Femenino,Front,0.88
+768,Melva,Dawber,34,Masculino,FullS,1.62
+769,Kellsie,Norcross,60,Femenino,Front,0.53
+770,Katrina,Doche,55,Femenino,Back,2.62
+771,Brietta,O' Meara,18,Femenino,Front,2.41
+772,Inna,Hoyer,49,Femenino,Front,3.96
+773,Timmie,Sellman,55,Femenino,Back,1.79
+774,Murry,Gibbe,51,Femenino,Front,3.99
+775,Alexis,Barlass,23,Masculino,Front,0.18
+776,Teresina,Cesco,25,Masculino,FullS,1.8
+777,Lethia,Bonds,26,Femenino,Back,3.59
+778,Yorker,Eady,42,Femenino,FullS,
+779,Trisha,Pill,37,Masculino,Back,
+780,Marijo,McCourt,33,Femenino,Front,2.98
+781,Christye,Trudgeon,59,Masculino,Front,1.25
+782,Elbertina,Yockney,35,Masculino,Front,2.12
+783,Prudy,Pickervance,39,,FullS,0.36
+784,Ricoriki,Koppe,,Masculino,Front,3.71
+785,Theodore,Teague,18,Femenino,FullS,3.0
+786,Teri,Harvie,21,Femenino,Front,0.07
+787,Arlyn,MacAndie,21,No Binario,FullS,0.39
+788,Tiphanie,Lafoy,27,Femenino,Front,2.64
+789,Rowen,Cummine,42,No Binario,FullS,
+790,Judas,Loyns,39,Femenino,Front,1.31
+791,Feodora,Perillio,38,No Binario,Front,
+792,Morganne,Swine,32,No Binario,Back,1.0
+793,Lonnie,Lydiate,24,No Binario,Front,2.44
+794,Al,Beckworth,35,Masculino,Front,2.37
+795,Anabelle,Bente,51,,FullS,0.07
+796,Anson,Mehew,24,Femenino,Front,0.97
+797,Urban,Memmory,42,Femenino,FullS,3.19
+798,Sherry,Droogan,31,Masculino,Front,3.15
+799,Reeva,Storrs,16,Femenino,Front,
+800,Allison,MacSporran,26,Masculino,FullS,1.91
+801,Willem,Birtwhistle,16,Masculino,Front,3.14
+802,Irina,Coppledike,38,Femenino,FullS,1.58
+803,Tiertza,MacCosto,26,Masculino,Back,2.05
+804,Lynsey,Norkett,51,Femenino,Front,2.59
+805,Fayre,Redbourn,17,Femenino,Front,0.86
+806,Cecilia,Leipoldt,45,Masculino,Front,1.38
+807,Glynda,Cocke,55,Masculino,Front,2.48
+808,Byram,Rentoul,36,,FullS,3.32
+809,Loutitia,Gumley,22,Femenino,FullS,1.48
+810,Ailina,Stoddard,23,Masculino,FullS,1.55
+811,Brook,Philbrick,,Femenino,Front,0.67
+812,Tallou,Cometson,23,Femenino,Back,2.53
+813,Vikky,Workman,59,Femenino,Back,3.45
+814,Bertrand,Irnys,20,Femenino,Back,1.21
+815,Kerianne,Slevin,46,Masculino,FullS,0.85
+816,Stanleigh,Arnecke,20,No Binario,Front,1.98
+817,Thia,Impy,57,Femenino,Front,0.5
+818,Lillis,Husk,31,Femenino,Back,2.41
+819,Consolata,Rowlatt,34,Masculino,Back,3.51
+820,Ailis,Truesdale,,Femenino,Back,3.79
+821,Bone,Samett,48,Femenino,Front,2.14
+822,Stepha,Richten,29,Masculino,Back,0.43
+823,Drusilla,Steventon,35,Femenino,Front,3.04
+824,Zondra,Sollowaye,31,Femenino,Back,2.97
+825,Matteo,Stuchbury,,Masculino,Front,3.27
+826,Way,Pinwell,36,Femenino,,0.26
+827,Jillian,Fitchen,21,No Binario,Front,1.18
+828,Gertrudis,Niesegen,60,No Binario,FullS,1.04
+829,Wenda,Gagin,17,Femenino,FullS,3.91
+830,Valma,Karlik,37,Femenino,Front,1.21
+831,Edythe,Adamov,33,Masculino,FullS,
+832,Emmeline,Camillo,44,Masculino,Back,0.77
+833,Jdavie,Ricarde,33,Femenino,Front,3.67
+834,Nancee,Aldam,39,Femenino,Back,2.65
+835,Averell,Mancell,28,Femenino,FullS,1.1
+836,Bucky,Grigorushkin,25,No Binario,Back,0.89
+837,Hi,Emlyn,46,Masculino,Front,3.91
+838,Ursula,Coyne,52,Masculino,FullS,2.73
+839,Sybila,Brownett,24,,Front,3.15
+840,Brady,Michelmore,59,Femenino,FullS,3.95
+841,Aubry,Wisby,28,Masculino,Back,1.53
+842,Fiona,Thirtle,33,Masculino,Back,1.75
+843,Berthe,Massy,44,Femenino,Front,2.44
+844,Wilow,Winchurst,58,Femenino,FullS,2.14
+845,Daron,Keasey,44,Femenino,,2.27
+846,Gilli,Parkin,23,Femenino,Back,0.4
+847,Tarrah,Petit,30,Femenino,Front,0.18
+848,Shandeigh,Pariso,35,,Back,3.51
+849,Lolly,Lambin,45,Masculino,Back,3.52
+850,Aurora,Genny,30,Masculino,Front,3.97
+851,Rafaelia,Jinkinson,53,No Binario,Back,1.62
+852,Gerry,Milverton,43,Femenino,Front,3.99
+853,Hasty,Metcalfe,34,Femenino,Back,0.89
+854,Janith,Sanchiz,22,Femenino,Back,2.48
+855,Alfonso,Greally,19,Masculino,Back,0.32
+856,Stefania,Worvell,43,Masculino,Front,1.35
+857,Camile,Kinver,18,Femenino,FullS,1.01
+858,Shirl,Reggiani,52,No Binario,Front,3.63
+859,Shayla,Norwich,59,No Binario,Front,1.56
+860,Nadeen,Boij,60,No Binario,Front,1.75
+861,Valery,Dalwood,37,,Front,3.79
+862,Carlynn,Rossant,27,Femenino,Back,0.32
+863,Melita,Bellson,52,Femenino,FullS,1.56
+864,Yolande,Wickstead,59,Masculino,FullS,1.13
+865,Anni,Robottom,50,Femenino,Back,0.17
+866,Gordy,Mouncher,56,Femenino,FullS,0.52
+867,Shawn,Piola,44,Masculino,FullS,2.47
+868,Henderson,Rushbrook,27,Femenino,Front,3.49
+869,Clay,Seeds,17,Femenino,Back,
+870,Noemi,Rounsefull,51,Masculino,Back,1.8
+871,Lucho,Nezey,22,Femenino,Front,2.85
+872,Jackie,Sperling,30,Masculino,Front,0.2
+873,Colas,Lavies,24,Femenino,Front,
+874,Sherri,Marshal,41,,Back,3.62
+875,Camilla,Vokins,29,Femenino,Back,0.44
+876,Torrey,Dickings,20,Femenino,Front,2.7
+877,Darcie,Claire,52,Masculino,FullS,0.25
+878,Maressa,Caseri,28,Femenino,Front,3.32
+879,Amie,Andreaccio,60,Femenino,Back,0.11
+880,Jaclyn,Jaquiss,46,Femenino,FullS,3.11
+881,Maximilien,Joontjes,41,Masculino,Back,3.67
+882,Neely,Stuckow,,Femenino,FullS,3.82
+883,Farah,Tuffin,56,Femenino,FullS,1.84
+884,Cecilla,Lackey,16,Masculino,Front,
+885,Ema,Errett,59,Masculino,Back,2.72
+886,Marti,Watson-Brown,53,Femenino,Back,2.62
+887,Tuesday,Bradane,55,Femenino,Front,1.51
+888,Bearnard,Remirez,31,,Front,2.26
+889,Camille,MacAnulty,60,No Binario,Front,3.01
+890,Cyndie,Kenealy,16,Masculino,FullS,0.33
+891,Brooks,Feldheim,55,Femenino,Front,1.91
+892,Merell,Blannin,46,Femenino,Front,3.44
+893,Gustave,Obispo,60,Femenino,Back,1.05
+894,Consolata,Sanzio,27,Masculino,Back,1.8
+895,Ricoriki,Summerell,45,Masculino,Back,2.38
+896,Caz,Shynn,44,Masculino,Back,3.78
+897,Cobbie,Vequaud,35,,Front,0.58
+898,Mellie,Zucker,38,Femenino,Back,1.61
+899,Debbi,Browncey,30,Femenino,Back,0.23
+900,Pearce,Kimbly,28,Femenino,Front,2.75
+901,Archy,Rostern,49,Masculino,Back,1.25
+902,Andreana,Fallon,56,Femenino,Front,1.97
+903,Oberon,Brelsford,46,Femenino,Front,0.23
+904,Fernandina,Limeburner,53,Femenino,Back,0.68
+905,Elicia,Kingsmill,24,Femenino,Back,3.77
+906,Barde,Everix,58,Masculino,Back,3.4
+907,Shalna,Digginson,19,Femenino,Front,0.78
+908,Charlena,Blind,33,Femenino,Front,2.11
+909,Bethany,Lamlin,47,Femenino,Front,1.41
+910,Donny,Carter,44,Masculino,Back,0.87
+911,Uri,Suddock,33,Masculino,Back,3.06
+912,Hanna,Meaddowcroft,,Masculino,Front,1.32
+913,Jacquetta,Pantry,22,Femenino,Back,2.64
+914,Latrina,Rowsell,32,Femenino,Front,0.39
+915,Travus,Gocher,45,Masculino,Front,2.94
+916,Miles,Odgers,50,Femenino,Back,3.68
+917,Gregor,Rebillard,18,Femenino,Front,3.57
+918,Dione,Gueste,37,Masculino,Front,3.32
+919,Shanta,Antoniat,40,Masculino,,1.53
+920,Alyosha,Ackland,29,Femenino,Back,2.28
+921,Rochester,Oldknowe,32,Femenino,Front,1.87
+922,Gram,Vyse,35,Femenino,FullS,0.92
+923,Emerson,McRorie,17,,Back,1.21
+924,Tabor,Bisley,43,Femenino,Front,2.18
+925,Lance,Danilishin,49,,Front,0.93
+926,Kipper,Goodhall,,No Binario,Front,1.73
+927,Bartolomeo,Edwicker,29,Femenino,Back,0.61
+928,Waylan,Stebles,49,Masculino,Front,3.5
+929,Blake,Sidden,55,Femenino,Back,2.61
+930,Lindsay,Strettle,60,Femenino,FullS,3.43
+931,Candice,McNeilly,34,,Front,1.34
+932,Clementina,Hatchman,56,Femenino,Back,3.61
+933,Tremain,Dripp,42,Femenino,FullS,2.85
+934,Star,Doodney,28,Femenino,FullS,1.83
+935,Yolane,Crampton,57,Femenino,FullS,1.59
+936,Cam,Boyne,35,No Binario,Front,0.68
+937,El,Medling,55,Femenino,Back,2.16
+938,Zsa zsa,Urien,53,Femenino,Front,3.36
+939,Norbert,Iacovuzzi,26,Femenino,Back,2.99
+940,Alf,Guyon,21,Masculino,FullS,2.94
+941,Diandra,Crammy,56,Femenino,FullS,0.87
+942,Anestassia,Hollows,29,No Binario,Back,3.5
+943,Johann,Larrie,,Masculino,Back,2.45
+944,Robina,Arnfield,48,Femenino,Front,0.49
+945,Giraldo,Le Ball,38,Masculino,FullS,1.31
+946,Pepito,Petrasch,60,Masculino,Front,
+947,Carin,Prettejohns,39,Femenino,Front,2.69
+948,Elyse,Sharvill,57,,Front,2.06
+949,Niels,Gravenor,17,Femenino,Front,2.08
+950,Woodie,Laundon,41,Femenino,Front,1.68
+951,Bertie,Hurley,24,Masculino,Front,0.38
+952,Vance,McGrey,60,No Binario,Back,2.24
+953,Malanie,Robertz,45,Femenino,Back,2.5
+954,Eryn,Borsnall,46,Femenino,Back,0.03
+955,Kristien,Sextie,58,Femenino,FullS,1.52
+956,Ester,Troke,53,Femenino,Front,0.49
+957,Luella,Thor,39,Femenino,Back,3.79
+958,Codie,Legrand,16,,Front,3.02
+959,Rockwell,Seviour,38,Femenino,Back,2.66
+960,Lauryn,Shotboult,56,Femenino,Front,2.58
+961,Philly,Epton,38,Femenino,Back,0.92
+962,Ermina,Aarons,26,Femenino,Front,0.09
+963,Candra,Kleiner,18,Masculino,FullS,3.71
+964,Estell,Ebbitt,,Masculino,Back,3.2
+965,Hoyt,Murcutt,43,Femenino,Front,2.32
+966,Ketti,Dilawey,40,No Binario,Back,3.69
+967,Jacky,Ratnage,56,Femenino,FullS,0.7
+968,Cad,Faithorn,41,Femenino,Back,1.59
+969,Euphemia,Mattiello,58,Femenino,Front,2.51
+970,Ellynn,Warne,,Masculino,Front,3.18
+971,Wilie,Pirozzi,50,Masculino,Back,1.72
+972,Halimeda,Kemson,20,No Binario,FullS,0.75
+973,Palmer,Flintuff,46,Femenino,Front,2.11
+974,Clea,Keyho,30,,Back,2.24
+975,Dannie,Hanshaw,29,,FullS,1.97
+976,Josee,Rozanski,46,Femenino,FullS,2.64
+977,Thatcher,Courtin,25,Femenino,Back,0.5
+978,Allard,Brecknell,51,Masculino,FullS,2.79
+979,Marney,Remington,42,Femenino,FullS,3.06
+980,Florella,Hartnell,57,Femenino,Front,2.8
+981,Bea,Moxson,35,Femenino,FullS,2.57
+982,Salem,Pylkynyton,,Femenino,Front,0.52
+983,Reggis,Grassi,16,Femenino,Front,
+984,Eddi,Reynish,34,Femenino,FullS,2.01
+985,Faith,Lofthouse,49,Masculino,,0.28
+986,Ashby,Burchnall,39,Masculino,Front,1.91
+987,Durward,Surby,27,No Binario,FullS,1.15
+988,Maxine,Habershaw,53,Masculino,Back,3.53
+989,Dianne,Vertigan,26,Masculino,Back,3.67
+990,Janene,L'Episcopi,52,Masculino,Front,3.71
+991,Deena,Titchener,21,Masculino,Back,2.67
+992,Thelma,Lundbeck,39,Femenino,Front,1.47
+993,Jeremiah,Edmunds,23,Masculino,Back,1.61
+994,Rockwell,McGerr,18,Masculino,Front,0.67
+995,Hadlee,Davydenko,34,,Back,
+996,Shawnee,Beamand,27,Femenino,FullS,
+997,Hyacinthie,Vanni,16,Femenino,FullS,0.32
+998,Alissa,Bachelar,34,No Binario,Front,0.45
+999,Cassandre,Leethem,31,Masculino,Back,0.61
+1000,Clemmie,Redpath,56,Femenino,Front,3.67

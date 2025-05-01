@@ -1,0 +1,17 @@
+con MOCK_DATA.csv crear el siguente analisis:
+
+contrar la cantidad de generos
+
+contrar la cantidad de estudiantes con asignatura
+
+crear % de cantidad por genero
+
+crear agrupamiento de cantidad de estudiantes por asignatura
+
+crear agrupamiento por genero y asignatura
+
+generar un informe por edades: entre 16-30, entre 31-45, entre 46-60
+
+Nota mayor por asignatura y promedio de notas
+
+cuantas personas ganaro y perdieron por asignatura (se pierde en menos de 3.0)

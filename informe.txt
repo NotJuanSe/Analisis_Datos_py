@@ -1,0 +1,50 @@
+### 1. Cantidad de Géneros
+- Femenino: 297 estudiantes
+- Masculino: 134 estudiantes
+- No Binario: 47 estudiantes
+- Sin especificar: 123 estudiantes
+### 2. Porcentaje por Género
+- Femenino: 49.5%
+- Masculino: 22.3%
+- No Binario: 7.8%
+- Sin especificar: 20.4%
+### 3. Cantidad de Estudiantes por Asignatura
+- Front: 297 estudiantes
+- Back: 127 estudiantes
+- FullS: 134 estudiantes
+- Sin asignatura: 43 estudiantes
+### 4. Agrupamiento por Género y Asignatura Femenino
+- Front: 146 estudiantes
+- Back: 62 estudiantes
+- FullS: 65 estudiantes
+- Sin asignatura: 24 estudiantes Masculino
+- Front: 65 estudiantes
+- Back: 27 estudiantes
+- FullS: 31 estudiantes
+- Sin asignatura: 11 estudiantes No Binario
+- Front: 23 estudiantes
+- Back: 8 estudiantes
+- FullS: 14 estudiantes
+- Sin asignatura: 2 estudiantes
+### 5. Informe por Edades
+- Entre 16-30 años: 223 estudiantes
+- Entre 31-45 años: 156 estudiantes
+- Entre 46-60 años: 200 estudiantes
+- Sin edad especificada: 22 estudiantes
+### 6. Análisis de Notas por Asignatura Front
+- Nota más alta: 3.99
+- Promedio: 1.89
+- Aprobados (≥3.0): 89 estudiantes
+- Reprobados (<3.0): 182 estudiantes
+- Sin nota: 26 estudiantes Back
+- Nota más alta: 3.82
+- Promedio: 2.01
+- Aprobados (≥3.0): 42 estudiantes
+- Reprobados (<3.0): 74 estudiantes
+- Sin nota: 11 estudiantes FullS
+- Nota más alta: 3.96
+- Promedio: 1.87
+- Aprobados (≥3.0): 45 estudiantes
+- Reprobados (<3.0): 77 estudiantes
+- Sin nota: 12 estudiantes
+Este análisis muestra que hay una mayor presencia de estudiantes femeninos y que la asignatura Front es la más popular. También se observa que hay un alto índice de reprobación en todas las asignaturas, siendo el promedio general inferior a 3.0.
